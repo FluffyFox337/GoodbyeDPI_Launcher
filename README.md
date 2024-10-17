@@ -18,7 +18,7 @@ Launcher for GoodbyeDPI to run GoodbyeDPI with a clear interface
 интернет нужен только для обновления блэклиста, если решите его обновить.
 Всё происходит локально на вашем компьютере. Никаких прокси не используется, скорость не режется, чужие серверы не используются.
 Более подробно о работе в Мини-FAQ в самой программе.
-
+- Связь со мной при необходимости: tg @Yelsoon
 ## Description:
 
 Launcher for GoodbyeDPI to run GoodbyeDPI with a clear interface
@@ -37,3 +37,5 @@ This tool does not require an internet connection,
 Internet is only needed to update the blacklist if you decide to update it.
 Everything happens locally on your computer. No proxy is used, no speed cut, no other servers are used.
 More details about the work in the mini-FAQs in the program itself.
+
+- Contact me if needed: tg @Yelsoon
